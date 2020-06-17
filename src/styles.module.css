@@ -1,0 +1,33 @@
+.container {
+  width: 360;
+  margin: "0 auto";
+  border-bottom: "1px solid #ededed";
+}
+
+.form {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+}
+
+.input {
+  height: 35;
+  width: "360px";
+  border: "none";
+  outline: "none";
+  margin-left: 10;
+  font-size: 20;
+  padding: 8;
+  margin-right: 10;
+}
+
+.bottomMenu {
+  display: "flex";
+  margin-top: 10;
+  justify-content: "center";
+}
+
+.notesContainer {
+  width: "360px";
+  margin: "0 auto";
+}
